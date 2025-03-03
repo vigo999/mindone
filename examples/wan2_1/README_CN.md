@@ -167,7 +167,7 @@ msrun --worker_num=2 --local_worker_num=2 generate.py \
 
 想把脑洞变成视频？赶紧去 MindOne GitHub 下载代码，动手试试吧！有什么问题，欢迎留言，我们会第一时间帮你解答。
 
-
+> MindOne开源链接：https://github.com/mindspore-lab/mindone/tree/master/examples/wan2_1
 
 
 

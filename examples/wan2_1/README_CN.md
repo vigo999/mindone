@@ -1,6 +1,6 @@
 # 开箱即用！Wan2.1视频生成模型MindSpore适配开源，昇腾硬件加速加持
 
-在AI视频生成领域，Wan2.1作为最新的视觉生成模型，能够根据文本、图像或其他控制信号生成视频，以其卓越表现备受关注。。在VBench评测中，Wan2.1以86.22%的总分，力压Sora、HunyuanVideo等主流模型，摘得桂冠。
+在AI视频生成领域，Wan2.1作为最新的视觉生成模型，能够根据文本、图像或其他控制信号生成视频，以其卓越表现备受关注。在VBench评测中，Wan2.1以86.22%的总分，力压Sora、HunyuanVideo等主流模型，摘得桂冠。
 
 MindSpore团队现已完成对Wan2.1的适配，并将其开源至[MindOne]((https://github.com/mindspore-lab/mindone)) GitHub仓库，结合昇腾硬件加速，为开发者提供高效体验。本文将详细介绍如何基于昇思MindSpore和单机Atlas 800T A2，完整实现Wan2.1视频生成的操作流程。
 
